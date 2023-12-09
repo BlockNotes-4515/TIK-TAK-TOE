@@ -1,5 +1,6 @@
 # TIK-TAK-TOE
 SGML, or Standard Generalized Markup Language, is a standard for defining markup languages.
+<center><img src="tik-tak image.jpeg"></center>
 
 "I developed a Tic-Tac-Toe game in C++. The program employs object-oriented programming principles to create a modular and organized structure. The game features a simple console-based interface, allowing two players to take turns marking their respective symbols ('X' and 'O') on a 3x3 grid. The code includes logic to check for winning conditions, such as three consecutive symbols in a row, column, or diagonal. Additionally, it ensures that players cannot make moves on already occupied positions. The program concludes with a clear display of the winner or a draw, providing an interactive and enjoyable experience for users."
 
